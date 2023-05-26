@@ -1,0 +1,530 @@
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8634076118469238, "timestamp": "20230504_203113", "epochs": 19, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8605319857597351, "timestamp": "20230504_203252", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8490294814109802, "timestamp": "20230504_203459", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8554996252059937, "timestamp": "20230504_203459", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8734723329544067, "timestamp": "20230504_204533", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8691588640213013, "timestamp": "20230504_204741", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8648454546928406, "timestamp": "20230504_205029", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8504672646522522, "timestamp": "20230504_205232", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8749101161956787, "timestamp": "20230504_210120", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8734723329544067, "timestamp": "20230504_210218", "epochs": 19, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8785046935081482, "timestamp": "20230504_210727", "epochs": 17, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8799424767494202, "timestamp": "20230504_211148", "epochs": 19, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8425593376159668, "timestamp": "20230504_211951", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8461538553237915, "timestamp": "20230504_212017", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8677210807800293, "timestamp": "20230504_212746", "epochs": 19, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8626887202262878, "timestamp": "20230504_213248", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8468727469444275, "timestamp": "20230504_213636", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8583752512931824, "timestamp": "20230504_213705", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8360891342163086, "timestamp": "20230504_214330", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8404026031494141, "timestamp": "20230504_214842", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8828181028366089, "timestamp": "20230504_214914", "epochs": 15, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8770668506622314, "timestamp": "20230504_215454", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8540618419647217, "timestamp": "20230504_220054", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8576563596725464, "timestamp": "20230504_220507", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8756290674209595, "timestamp": "20230504_221018", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8785046935081482, "timestamp": "20230504_221501", "epochs": 19, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8799424767494202, "timestamp": "20230504_222116", "epochs": 19, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8785046935081482, "timestamp": "20230504_222420", "epochs": 18, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.6973400712013245, "timestamp": "20230504_222625", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8447160124778748, "timestamp": "20230504_223044", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8569374680519104, "timestamp": "20230504_223631", "epochs": 19, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8626887202262878, "timestamp": "20230504_224051", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8741912245750427, "timestamp": "20230504_224123", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8475916385650635, "timestamp": "20230504_224529", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8447160124778748, "timestamp": "20230504_225230", "epochs": 20, "patience": 10}
+{"hidden_layers": 3, "hidden_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8396836519241333, "timestamp": "20230504_225837", "epochs": 20, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8785046935081482, "timestamp": "20230504_225908", "epochs": 18, "patience": 10}
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8777857422828674, "timestamp": "20230504_230334", "epochs": 18, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8756290674209595, "timestamp": "20230504_230515", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8662832379341125, "timestamp": "20230504_230705", "epochs": 20, "patience": 10}
+{"hidden_layers": 1, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "accuracy": 0.8756290674209595, "timestamp": "20230504_231220", "epochs": 18, "patience": 10}
+
+
+
+{"hidden_layers": 4, "hidden_units": 16, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.8461538553237915, "timestamp": "20230514_010625", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[915,  46,   9],
+ [ 75, 255,   1],
+ [ 35,  23,  32]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.94      0.92       970
+           1       0.79      0.77      0.78       331
+           2       0.76      0.36      0.48        90
+
+    accuracy                           0.86      1391
+   macro avg       0.81      0.69      0.73      1391
+weighted avg       0.86      0.86      0.86      1391
+
+
+{"hidden_layers": 4, "hidden_units": 32, "dropout_rate": 0.3, "learning_rate": 0.0001, "recall": 0.8626887202262878, "timestamp": "20230514_010739", "epochs": 12, "patience": 5}
+Confusion Matrix:
+	[[934,  31,   5],
+ [ 81, 248,   2],
+ [ 38,  17,  35]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92       970
+           1       0.84      0.75      0.79       331
+           2       0.83      0.39      0.53        90
+
+    accuracy                           0.87      1391
+   macro avg       0.85      0.70      0.75      1391
+weighted avg       0.87      0.87      0.87      1391
+
+
+{"hidden_layers": 4, "hidden_units": 16, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.8590942025184631, "timestamp": "20230514_010738", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[913,  52,   5],
+ [ 67, 262,   2],
+ [ 39,  24,  27]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.90      0.94      0.92       970
+           1       0.78      0.79      0.78       331
+           2       0.79      0.30      0.44        90
+
+    accuracy                           0.86      1391
+   macro avg       0.82      0.68      0.71      1391
+weighted avg       0.86      0.86      0.85      1391
+
+
+{"hidden_layers": 4, "hidden_units": 32, "dropout_rate": 0.3, "learning_rate": 0.0001, "recall": 0.8670021295547485, "timestamp": "20230514_010741", "epochs": 12, "patience": 5}
+Confusion Matrix:
+	[[905,  56,   9],
+ [ 61, 268,   2],
+ [ 33,  13,  44]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92       970
+           1       0.80      0.81      0.80       331
+           2       0.80      0.49      0.61        90
+
+    accuracy                           0.87      1391
+   macro avg       0.83      0.74      0.78      1391
+weighted avg       0.87      0.87      0.87      1391
+
+
+{"hidden_layers": 4, "hidden_units": 32, "dropout_rate": 0.3, "learning_rate": 0.0001, "recall": 0.851186215877533, "timestamp": "20230514_041339", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[919,  41,  10],
+ [ 76, 255,   0],
+ [ 44,  19,  27]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.88      0.95      0.91       970
+           1       0.81      0.77      0.79       331
+           2       0.73      0.30      0.43        90
+
+    accuracy                           0.86      1391
+   macro avg       0.81      0.67      0.71      1391
+weighted avg       0.86      0.86      0.85      1391
+
+
+{"hidden_layers": 6, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.001, "recall": 0.8662832379341125, "timestamp": "20230514_083511", "epochs": 7, "patience": 5}
+Confusion Matrix:
+	[[901,  59,  10],
+ [ 68, 252,  11],
+ [ 24,  13,  53]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92       970
+           1       0.78      0.76      0.77       331
+           2       0.72      0.59      0.65        90
+
+    accuracy                           0.87      1391
+   macro avg       0.80      0.76      0.78      1391
+weighted avg       0.86      0.87      0.87      1391
+
+
+{"hidden_layers": 6, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.001, "recall": 0.8569374680519104, "timestamp": "20230514_083511", "epochs": 7, "patience": 5}
+Confusion Matrix:
+	[[895,  49,  26],
+ [ 73, 244,  14],
+ [ 22,  11,  57]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.90      0.92      0.91       970
+           1       0.80      0.74      0.77       331
+           2       0.59      0.63      0.61        90
+
+    accuracy                           0.86      1391
+   macro avg       0.76      0.76      0.76      1391
+weighted avg       0.86      0.86      0.86      1391
+
+
+{"hidden_layers": 6, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.8677210807800293, "timestamp": "20230514_083647", "epochs": 10, "patience": 5}
+Confusion Matrix:
+	[[901,  59,  10],
+ [ 59, 263,   9],
+ [ 32,   9,  49]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.93      0.92       970
+           1       0.79      0.79      0.79       331
+           2       0.72      0.54      0.62        90
+
+    accuracy                           0.87      1391
+   macro avg       0.81      0.76      0.78      1391
+weighted avg       0.87      0.87      0.87      1391
+
+
+{"hidden_layers": 6, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.87203449010849, "timestamp": "20230514_083725", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[932,  33,   5],
+ [ 84, 244,   3],
+ [ 37,  11,  42]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92       970
+           1       0.85      0.74      0.79       331
+           2       0.84      0.47      0.60        90
+
+    accuracy                           0.88      1391
+   macro avg       0.86      0.72      0.77      1391
+weighted avg       0.87      0.88      0.87      1391
+
+
+{"hidden_layers": 8, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.8540618419647217, "timestamp": "20230514_084215", "epochs": 9, "patience": 5}
+Confusion Matrix:
+	[[919,  39,  12],
+ [ 75, 253,   3],
+ [ 38,  18,  34]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.95      0.92       970
+           1       0.82      0.76      0.79       331
+           2       0.69      0.38      0.49        90
+
+    accuracy                           0.87      1391
+   macro avg       0.80      0.70      0.73      1391
+weighted avg       0.86      0.87      0.86      1391
+
+
+{"hidden_layers": 8, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.871315598487854, "timestamp": "20230514_084249", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[907,  56,   7],
+ [ 62, 265,   4],
+ [ 31,  13,  46]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.92       970
+           1       0.79      0.80      0.80       331
+           2       0.81      0.51      0.63        90
+
+    accuracy                           0.88      1391
+   macro avg       0.84      0.75      0.78      1391
+weighted avg       0.87      0.88      0.87      1391
+
+
+{"hidden_layers": 8, "hidden_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.869877815246582, "timestamp": "20230514_084500", "epochs": 10, "patience": 5}
+Confusion Matrix:
+	[[930,  32,   8],
+ [ 84, 244,   3],
+ [ 33,  11,  46]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92       970
+           1       0.85      0.74      0.79       331
+           2       0.81      0.51      0.63        90
+
+    accuracy                           0.88      1391
+   macro avg       0.85      0.74      0.78      1391
+weighted avg       0.87      0.88      0.87      1391
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "recall": 0.8684399724006653, "timestamp": "20230514_085406", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[910,  47,  13],
+ [ 65, 262,   4],
+ [ 31,  11,  48]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.90      0.94      0.92       970
+           1       0.82      0.79      0.80       331
+           2       0.74      0.53      0.62        90
+
+    accuracy                           0.88      1391
+   macro avg       0.82      0.75      0.78      1391
+weighted avg       0.87      0.88      0.87      1391
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "recall": 0.87203449010849, "timestamp": "20230514_085456", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[929,  36,   5],
+ [ 78, 249,   4],
+ [ 38,  10,  42]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92       970
+           1       0.84      0.75      0.80       331
+           2       0.82      0.47      0.60        90
+
+    accuracy                           0.88      1391
+   macro avg       0.85      0.73      0.77      1391
+weighted avg       0.87      0.88      0.87      1391
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.5, "learning_rate": 0.0001, "recall": 0.8734723329544067, "timestamp": "20230514_085828", "epochs": 12, "patience": 5}
+Confusion Matrix:
+	[[914,  50,   6],
+ [ 61, 265,   5],
+ [ 34,  12,  44]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.94      0.92       970
+           1       0.81      0.80      0.81       331
+           2       0.80      0.49      0.61        90
+
+    accuracy                           0.88      1391
+   macro avg       0.84      0.74      0.78      1391
+weighted avg       0.88      0.88      0.88      1391
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.7252747416496277, "timestamp": "20230514_094112", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[62, 14, 16],
+ [12, 68, 10],
+ [13,  5, 73]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.71      0.67      0.69        92
+           1       0.78      0.76      0.77        90
+           2       0.74      0.80      0.77        91
+
+    accuracy                           0.74       273
+   macro avg       0.74      0.74      0.74       273
+weighted avg       0.74      0.74      0.74       273
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.7362637519836426, "timestamp": "20230514_094109", "epochs": 14, "patience": 5}
+Confusion Matrix:
+	[[62, 15, 15],
+ [11, 70,  9],
+ [12,  6, 73]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.73      0.67      0.70        92
+           1       0.77      0.78      0.77        90
+           2       0.75      0.80      0.78        91
+
+    accuracy                           0.75       273
+   macro avg       0.75      0.75      0.75       273
+weighted avg       0.75      0.75      0.75       273
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.7179487347602844, "timestamp": "20230514_094158", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[58, 15, 19],
+ [10, 70, 10],
+ [14,  6, 71]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.71      0.63      0.67        92
+           1       0.77      0.78      0.77        90
+           2       0.71      0.78      0.74        91
+
+    accuracy                           0.73       273
+   macro avg       0.73      0.73      0.73       273
+weighted avg       0.73      0.73      0.73       273
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.7491369247436523, "timestamp": "20230514_103140", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[951, 150, 100],
+ [ 64, 319,  40],
+ [ 29,  13,  72]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.79      0.85      1201
+           1       0.66      0.75      0.70       423
+           2       0.34      0.63      0.44       114
+
+    accuracy                           0.77      1738
+   macro avg       0.64      0.73      0.66      1738
+weighted avg       0.81      0.77      0.79      1738
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.7220943570137024, "timestamp": "20230514_103146", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[904, 186, 111],
+ [ 48, 334,  41],
+ [ 30,  15,  69]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.75      0.83      1201
+           1       0.62      0.79      0.70       423
+           2       0.31      0.61      0.41       114
+
+    accuracy                           0.75      1738
+   macro avg       0.62      0.72      0.65      1738
+weighted avg       0.81      0.75      0.77      1738
+
+
+{"hidden_layers": 2, "hidden_units": 64, "dropout_rate": 0.1, "learning_rate": 0.0001, "recall": 0.741081714630127, "timestamp": "20230514_103244", "epochs": 12, "patience": 5}
+Confusion Matrix:
+	[[938, 158, 105],
+ [ 56, 325,  42],
+ [ 28,  12,  74]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.78      0.84      1201
+           1       0.66      0.77      0.71       423
+           2       0.33      0.65      0.44       114
+
+    accuracy                           0.77      1738
+   macro avg       0.64      0.73      0.66      1738
+weighted avg       0.82      0.77      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7341772317886353, "timestamp": "20230515_121521", "epochs": 11, "patience": 5}
+Confusion Matrix:
+	[[928, 180,  93],
+ [ 59, 328,  36],
+ [ 31,  13,  70]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.77      0.84      1201
+           1       0.63      0.78      0.69       423
+           2       0.35      0.61      0.45       114
+
+    accuracy                           0.76      1738
+   macro avg       0.63      0.72      0.66      1738
+weighted avg       0.81      0.76      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7370541095733643, "timestamp": "20230515_121526", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[926, 175, 100],
+ [ 60, 324,  39],
+ [ 32,   8,  74]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.77      0.83      1201
+           1       0.64      0.77      0.70       423
+           2       0.35      0.65      0.45       114
+
+    accuracy                           0.76      1738
+   macro avg       0.63      0.73      0.66      1738
+weighted avg       0.81      0.76      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7370541095733643, "timestamp": "20230515_121608", "epochs": 14, "patience": 5}
+Confusion Matrix:
+	[[928, 151, 122],
+ [ 55, 317,  51],
+ [ 25,   7,  82]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.77      0.84      1201
+           1       0.67      0.75      0.71       423
+           2       0.32      0.72      0.44       114
+
+    accuracy                           0.76      1738
+   macro avg       0.64      0.75      0.66      1738
+weighted avg       0.82      0.76      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.753164529800415, "timestamp": "20230515_122415", "epochs": 13, "patience": 5}
+Confusion Matrix:
+	[[956, 158,  87],
+ [ 65, 322,  36],
+ [ 32,  13,  69]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85      1201
+           1       0.65      0.76      0.70       423
+           2       0.36      0.61      0.45       114
+
+    accuracy                           0.78      1738
+   macro avg       0.64      0.72      0.67      1738
+weighted avg       0.81      0.78      0.79      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7307249903678894, "timestamp": "20230515_122420", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[919, 172, 110],
+ [ 53, 325,  45],
+ [ 29,  10,  75]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.77      0.83      1201
+           1       0.64      0.77      0.70       423
+           2       0.33      0.66      0.44       114
+
+    accuracy                           0.76      1738
+   macro avg       0.63      0.73      0.66      1738
+weighted avg       0.81      0.76      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7347525954246521, "timestamp": "20230515_122500", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[916, 176, 109],
+ [ 51, 328,  44],
+ [ 24,  12,  78]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.76      0.84      1201
+           1       0.64      0.78      0.70       423
+           2       0.34      0.68      0.45       114
+
+    accuracy                           0.76      1738
+   macro avg       0.63      0.74      0.66      1738
+weighted avg       0.82      0.76      0.78      1738
+
+

@@ -1,0 +1,174 @@
+{"lstm_layers": 1, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.0015105740181268884, "timestamp": "20230506_172319", "epochs": 1, "patience": 10}
+Confusion Matrix:
+	[[951  19   0]
+	 [326   5   0]
+	 [ 84   6   0]]
+
+{"lstm_layers": 1, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.008761329305135953, "timestamp": "20230506_172320", "epochs": 1, "patience": 10}
+Confusion Matrix:
+	[[926  41   3]
+	 [301  29   1]
+	 [ 82   8   0]]
+
+{"lstm_layers": 1, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.0012084592145015106, "timestamp": "20230506_172637", "epochs": 1, "patience": 10}
+Confusion Matrix:
+	[[963   7   0]
+	 [327   4   0]
+	 [ 89   1   0]]
+
+{"lstm_layers": 1, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.08640483383685801, "timestamp": "20230506_182445", "epochs": 34, "patience": 10}
+Confusion Matrix:
+	[[890  80   0]
+	 [ 45 286   0]
+	 [ 19  71   0]]
+
+{"lstm_layers": 4, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.0, "timestamp": "20230506_225739", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[910  60   0]
+	 [ 59 272   0]
+	 [ 48  42   0]]
+
+{"lstm_layers": 4, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.0, "timestamp": "20230506_225751", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[878  92   0]
+	 [ 55 276   0]
+	 [ 21  69   0]]
+
+{"lstm_layers": 3, "lstm_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 1, "recall": 0.0, "timestamp": "20230506_234343", "epochs": 5, "patience": 15}
+Confusion Matrix:
+	[[1103   98    0]
+	 [  79  344    0]
+	 [  42   72    0]]
+
+{"lstm_layers": 3, "lstm_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 1, "recall": 0.0, "timestamp": "20230506_234340", "epochs": 5, "patience": 15}
+Confusion Matrix:
+	[[1100  101    0]
+	 [  63  360    0]
+	 [  40   74    0]]
+
+{"lstm_layers": 4, "lstm_units": 16, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.6403508771929824, "timestamp": "20230507_032516", "epochs": 30, "patience": 15}
+Confusion Matrix:
+	[[1065  112   24]
+	 [  61  348   14]
+	 [  27   14   73]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7105263157894737, "timestamp": "20230507_034011", "epochs": 27, "patience": 15}
+Confusion Matrix:
+	[[1035  137   29]
+	 [  55  349   19]
+	 [  18   15   81]]
+
+{"lstm_layers": 4, "lstm_units": 16, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.6578947368421053, "timestamp": "20230507_035154", "epochs": 35, "patience": 15}
+Confusion Matrix:
+	[[1076   99   26]
+	 [  79  336    8]
+	 [  21   18   75]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7280701754385965, "timestamp": "20230507_040204", "epochs": 31, "patience": 15}
+Confusion Matrix:
+	[[1052  123   26]
+	 [  63  345   15]
+	 [  20   11   83]]
+
+{"lstm_layers": 6, "lstm_units": 16, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7280701754385965, "timestamp": "20230507_133414", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1015  158   28]
+	 [  52  347   24]
+	 [  15   16   83]]
+
+{"lstm_layers": 6, "lstm_units": 16, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.6754385964912281, "timestamp": "20230507_133413", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1030  139   32]
+	 [  71  340   12]
+	 [  24   13   77]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.6578947368421053, "timestamp": "20230507_165512", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1086   98   17]
+	 [  69  343   11]
+	 [  25   14   75]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.6842105263157895, "timestamp": "20230507_165539", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1069   96   36]
+	 [  74  334   15]
+	 [  30    6   78]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.7017543859649122, "timestamp": "20230507_165616", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1025  138   38]
+	 [  47  363   13]
+	 [  15   19   80]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.2, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.7280701754385965, "timestamp": "20230507_165645", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1013  164   24]
+	 [  47  356   20]
+	 [  13   18   83]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.3, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 3, "recall": 0.7543859649122807, "timestamp": "20230507_185033", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[1044  118   39]
+	 [  50  342   31]
+	 [  18   10   86]]
+
+{"lstm_layers": 4, "lstm_units": 32, "dropout_rate": 0.3, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 3, "recall": 0.8596491228070176, "timestamp": "20230507_185043", "epochs": 25, "patience": 15}
+Confusion Matrix:
+	[[869 105 227]
+	 [ 29 329  65]
+	 [  6  10  98]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.8245614035087719, "timestamp": "20230507_205714", "epochs": 60, "patience": 15}
+Confusion Matrix:
+	[[896 153 152]
+	 [ 36 350  37]
+	 [ 12   8  94]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7368421052631579, "timestamp": "20230507_222100", "epochs": 100, "patience": 15}
+Confusion Matrix:
+	[[891 176 134]
+	 [ 73 324  26]
+	 [ 17  13  84]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.5, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7280701754385965, "timestamp": "20230507_222105", "epochs": 100, "patience": 15}
+Confusion Matrix:
+	[[933 157 111]
+	 [ 42 338  43]
+	 [ 14  17  83]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.4, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.6929824561403509, "timestamp": "20230507_231040", "epochs": 120, "patience": 20}
+Confusion Matrix:
+	[[871 226 104]
+	 [ 72 328  23]
+	 [ 26   9  79]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.4, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 1, "recall": 0.7368421052631579, "timestamp": "20230507_231040", "epochs": 120, "patience": 20}
+Confusion Matrix:
+	[[911 191  99]
+	 [ 47 344  32]
+	 [ 20  10  84]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.3, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.7719298245614035, "timestamp": "20230508_001711", "epochs": 102, "patience": 20}
+Confusion Matrix:
+	[[784 211 206]
+	 [ 72 320  31]
+	 [ 19   7  88]]
+
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.3, "learning_rate": 0.0001, "dense_units": 32, "dense_layers": 2, "recall": 0.8157894736842105, "timestamp": "20230508_002258", "epochs": 114, "patience": 20}
+Confusion Matrix:
+	[[885 192 124]
+	 [ 36 359  28]
+	 [  8  13  93]]
+
+{"lstm_layers": 3, "lstm_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 2, "recall": 0.8157894736842105, "timestamp": "20230508_010141", "epochs": 120, "patience": 20}
+Confusion Matrix:
+	[[780 229 192]
+	 [ 59 335  29]
+	 [ 15   6  93]]
+
+{"lstm_layers": 3, "lstm_units": 32, "dropout_rate": 0.1, "learning_rate": 0.0001, "dense_units": 16, "dense_layers": 2, "recall": 0.7807017543859649, "timestamp": "20230508_010142", "epochs": 120, "patience": 20}
+Confusion Matrix:
+	[[822 243 136]
+	 [ 46 341  36]
+	 [  6  19  89]]
+

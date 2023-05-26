@@ -1,0 +1,1 @@
+{"lstm_layers": 2, "lstm_units": 16, "dropout_rate": 0.5, "dense_layers": 1, "dense_units": 16, "learning_rate": 0.0001, "patience": 20, "batch_size": 64, "epochs": 20, "model": "Bidirectional", "test_accuracy": 0.8429229259490967}

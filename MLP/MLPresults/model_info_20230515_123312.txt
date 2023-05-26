@@ -1,0 +1,18 @@
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.753164529800415, "timestamp": "20230515_123308", "epochs": 12, "patience": 5}
+Confusion Matrix:
+	[[957, 156,  88],
+ [ 66, 322,  35],
+ [ 32,  10,  72]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.80      0.85      1201
+           1       0.66      0.76      0.71       423
+           2       0.37      0.63      0.47       114
+
+    accuracy                           0.78      1738
+   macro avg       0.65      0.73      0.67      1738
+weighted avg       0.81      0.78      0.79      1738
+
+

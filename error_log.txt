@@ -1,0 +1,87 @@
+2023-04-21 14:10:24.061608 - Error: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0059DCE3+50899]
+	(No symbol) [0x0052E111]
+	(No symbol) [0x00435588]
+	(No symbol) [0x0041D333]
+	(No symbol) [0x0047F4DB]
+	(No symbol) [0x0048DB33]
+	(No symbol) [0x0047B6F6]
+	(No symbol) [0x00457708]
+	(No symbol) [0x0045886D]
+	GetHandleVerifier [0x00803EAE+2566302]
+	GetHandleVerifier [0x008392B1+2784417]
+	GetHandleVerifier [0x0083327C+2759788]
+	GetHandleVerifier [0x00635740+672048]
+	(No symbol) [0x00538872]
+	(No symbol) [0x005341C8]
+	(No symbol) [0x005342AB]
+	(No symbol) [0x005271B7]
+	BaseThreadInitThunk [0x765E0099+25]
+	RtlGetAppContainerNamedObjectPath [0x77077B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77077B3E+238]
+
+Traceback (most recent call last):
+  File "c:\Users\hunde\Desktop\Bakalauras\Scrap\htmlread.py", line 77, in <module>
+    paragraphs = "\n".join([paragraph.text for paragraph in paragraph_elements])
+  File "c:\Users\hunde\Desktop\Bakalauras\Scrap\htmlread.py", line 77, in <listcomp>
+    paragraphs = "\n".join([paragraph.text for paragraph in paragraph_elements])
+  File "C:\Users\hunde\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py", line 90, in text
+    return self._execute(Command.GET_ELEMENT_TEXT)["value"]
+  File "C:\Users\hunde\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webelement.py", line 404, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\hunde\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 440, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\hunde\AppData\Local\Programs\Python\Python310\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 245, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=112.0.5615.137)
+Stacktrace:
+Backtrace:
+	GetHandleVerifier [0x0059DCE3+50899]
+	(No symbol) [0x0052E111]
+	(No symbol) [0x00435588]
+	(No symbol) [0x0041D333]
+	(No symbol) [0x0047F4DB]
+	(No symbol) [0x0048DB33]
+	(No symbol) [0x0047B6F6]
+	(No symbol) [0x00457708]
+	(No symbol) [0x0045886D]
+	GetHandleVerifier [0x00803EAE+2566302]
+	GetHandleVerifier [0x008392B1+2784417]
+	GetHandleVerifier [0x0083327C+2759788]
+	GetHandleVerifier [0x00635740+672048]
+	(No symbol) [0x00538872]
+	(No symbol) [0x005341C8]
+	(No symbol) [0x005342AB]
+	(No symbol) [0x005271B7]
+	BaseThreadInitThunk [0x765E0099+25]
+	RtlGetAppContainerNamedObjectPath [0x77077B6E+286]
+	RtlGetAppContainerNamedObjectPath [0x77077B3E+238]
+
+
+================================================================================
+2023-04-21 14:16:12.112517 - Error: 'NoneType' object has no attribute 'find_element'
+Traceback (most recent call last):
+  File "c:\Users\hunde\Desktop\Bakalauras\Scrap\htmlread.py", line 75, in <module>
+    content_element = container_element.find_element(By.XPATH, ".//div[@class='ncpost-content']")
+AttributeError: 'NoneType' object has no attribute 'find_element'
+
+================================================================================
+2023-05-03 23:30:46.559452 - Error: [Errno 2] No such file or directory: '\\Data\\Datasets\\Scrapdataset.xlsx'
+Traceback (most recent call last):
+  File "c:\Users\hunde\Desktop\Bakalauras\Scrap\Webscrap\SkyNews\htmlread.py", line 36, in <module>
+    workbook.save(workbook_name)
+  File "C:\Users\hunde\Desktop\Bakalauras\Scrap\myenv\lib\site-packages\openpyxl\workbook\workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "C:\Users\hunde\Desktop\Bakalauras\Scrap\myenv\lib\site-packages\openpyxl\writer\excel.py", line 291, in save_workbook
+    archive = ZipFile(filename, 'w', ZIP_DEFLATED, allowZip64=True)
+  File "C:\Users\hunde\AppData\Local\Programs\Python\Python310\lib\zipfile.py", line 1249, in __init__
+    self.fp = io.open(file, filemode)
+FileNotFoundError: [Errno 2] No such file or directory: '\\Data\\Datasets\\Scrapdataset.xlsx'
+
+================================================================================

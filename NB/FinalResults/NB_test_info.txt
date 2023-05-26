@@ -1,0 +1,18 @@
+Best Alpha: 0.08986863441661504
+Best Accuracy: 0.8686708860759493
+Classification Report:
+              precision    recall  f1-score   support
+
+         0.0       0.88      0.91      0.90      1206
+         1.0       0.72      0.77      0.74       418
+         2.0       0.76      0.30      0.43       113
+
+    accuracy                           0.84      1737
+   macro avg       0.79      0.66      0.69      1737
+weighted avg       0.84      0.84      0.83      1737
+
+Confusion Matrix:
+[[1100  101    5]
+ [  91  321    6]
+ [  57   22   34]]
+Accuracy Score: 0.8376511226252159

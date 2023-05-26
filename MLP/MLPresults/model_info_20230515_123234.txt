@@ -1,0 +1,36 @@
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7399309277534485, "timestamp": "20230515_123228", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[931, 158, 112],
+ [ 56, 323,  44],
+ [ 31,  12,  71]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.91      0.78      0.84      1201
+           1       0.66      0.76      0.71       423
+           2       0.31      0.62      0.42       114
+
+    accuracy                           0.76      1738
+   macro avg       0.63      0.72      0.65      1738
+weighted avg       0.81      0.76      0.78      1738
+
+
+{"hidden_layers": 3, "hidden_units": 64, "dropout_rate": 0.2, "learning_rate": 0.0001, "recall": 0.7566167712211609, "timestamp": "20230515_123228", "epochs": 15, "patience": 5}
+Confusion Matrix:
+	[[949, 159,  93],
+ [ 57, 329,  37],
+ [ 29,  14,  71]]
+
+Classification Metrics:
+              precision    recall  f1-score   support
+
+           0       0.92      0.79      0.85      1201
+           1       0.66      0.78      0.71       423
+           2       0.35      0.62      0.45       114
+
+    accuracy                           0.78      1738
+   macro avg       0.64      0.73      0.67      1738
+weighted avg       0.82      0.78      0.79      1738
+
+
